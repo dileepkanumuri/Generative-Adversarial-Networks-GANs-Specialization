@@ -48,26 +48,26 @@ The GAN Specialization on Coursera contains three courses:
 
 - Learn about GANs and their applications, understand the intuition behind the basic components of GANs, and build your very own GAN using PyTorch.
 - Assignment:
-	- [Your First GAN](https://nbviewer.jupyter.org/github/amanchadha/coursera-gan-specialization/blob/main/C1%20-%20Build%20Basic%20Generative%20Adversarial%20Networks/Week%201/C1W1_Your_First_GAN.ipynb)
+	- [Your First GAN]()
 
 #### Week 2: Deep Convolutional GAN
 
 - Build a more sophisticated GAN using convolutional layers. Learn about useful activation functions, batch normalization, and transposed convolutions to tune your GAN architecture and apply them to build an advanced DCGAN specifically for processing images.
 - Assignment:
-	- [Deep Convolutional GAN (DCGAN)](https://nbviewer.jupyter.org/github/amanchadha/coursera-gan-specialization/blob/main/C1%20-%20Build%20Basic%20Generative%20Adversarial%20Networks/Week%202/C1_W2_Assignment.ipynb)
+	- [Deep Convolutional GAN (DCGAN)]()
 
 #### Week 3: Wasserstein GANs with Normalization
 
 - Reduce instances of GANs failure due to imbalances between the generator and discriminator by learning advanced techniques such as WGANs to mitigate unstable training and mode collapse with a W-Loss and an understanding of Lipschitz Continuity.
 - Assignment:
-	- [Wasserstein GAN with Gradient Penalty (WGAN-GP)](https://nbviewer.jupyter.org/github/amanchadha/coursera-gan-specialization/blob/main/C1%20-%20Build%20Basic%20Generative%20Adversarial%20Networks/Week%203/C1W3_WGAN_GP.ipynb)
+	- [Wasserstein GAN with Gradient Penalty (WGAN-GP)]()
 
 #### Week 4: Conditional and Controllable GANs
 
 - Understand how to effectively control your GAN, modify the features in a generated image, and build conditional GANs capable of generating examples from determined categories.
 - Assignments:
-	- [Build a Conditional GAN](https://nbviewer.jupyter.org/github/amanchadha/coursera-gan-specialization/blob/main/C1%20-%20Build%20Basic%20Generative%20Adversarial%20Networks/Week%204/C1W4A_Build_a_Conditional_GAN.ipynb)
-	- [Controllable Generation](https://nbviewer.jupyter.org/github/amanchadha/coursera-gan-specialization/blob/main/C1%20-%20Build%20Basic%20Generative%20Adversarial%20Networks/Week%204/C1W4B_Controllable_Generation.ipynb)
+	- [Build a Conditional GAN]()
+	- [Controllable Generation]()
 
 ---
 
@@ -79,15 +79,13 @@ The GAN Specialization on Coursera contains three courses:
 
 - Understand the challenges of evaluating GANs, learn about the advantages and disadvantages of different GAN performance measures, and implement the Fréchet Inception Distance (FID) method using embeddings to assess the accuracy of GANs.
 - Assignment:
-	- [Evaluating GANs / Fréchet Inception Distance](https://nbviewer.jupyter.org/github/amanchadha/coursera-gan-specialization/blob/main/C2%20-%20Build%20Better%20Generative%20Adversarial%20Networks/Week%201/C2W1_Assignment.ipynb)
+	- [Evaluating GANs / Fréchet Inception Distance]()
 
 #### Week 2: GAN Disadvantages and Bias
 
 - Find out the disadvantages of GANs when compared to other generative models, discover the pros/cons of these models — plus, learn about the many places where bias in machine learning can come from, why it’s important, and an approach to identify it in GANs.
-- Quiz:
-	- [Analyzing Bias](https://nbviewer.jupyter.org/github/amanchadha/coursera-gan-specialization/blob/main/C2%20-%20Build%20Better%20Generative%20Adversarial%20Networks/Week%202/Quiz-Analyzing%20Bias.md)
 - Assignment:
-	- [Bias](https://nbviewer.jupyter.org/github/amanchadha/coursera-gan-specialization/blob/main/C2%20-%20Build%20Better%20Generative%20Adversarial%20Networks/Week%202/C2W2_Assignment.ipynb)
+	- [Bias]()
 - Lab:
 	- [Variational Autoencoder (VAE)](https://nbviewer.jupyter.org/github/amanchadha/coursera-gan-specialization/blob/main/C2%20-%20Build%20Better%20Generative%20Adversarial%20Networks/Week%202/C2W2_VAE.ipynb)
 
