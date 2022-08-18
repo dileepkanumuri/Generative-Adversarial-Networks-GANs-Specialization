@@ -50,24 +50,18 @@ The GAN Specialization on Coursera contains three courses:
 - Assignment:
 	- [Your First GAN](https://github.com/dileepkanumuri/Generative-Adversarial-Networks-GANs-Specialization/blob/main/1.%20Build%20Basic%20Generative%20Adversarial%20Networks%20(GANs)/1.%20Your%20First%20GAN.ipynb)
 
-#### Week 2: Deep Convolutional GAN
-
-- Build a more sophisticated GAN using convolutional layers. Learn about useful activation functions, batch normalization, and transposed convolutions to tune your GAN architecture and apply them to build an advanced DCGAN specifically for processing images.
-- Assignment:
-	- [Deep Convolutional GAN (DCGAN)]()
-
 #### Week 3: Wasserstein GANs with Normalization
 
 - Reduce instances of GANs failure due to imbalances between the generator and discriminator by learning advanced techniques such as WGANs to mitigate unstable training and mode collapse with a W-Loss and an understanding of Lipschitz Continuity.
 - Assignment:
-	- [Wasserstein GAN with Gradient Penalty (WGAN-GP)]()
+	- [Wasserstein GAN with Gradient Penalty (WGAN-GP)](https://github.com/dileepkanumuri/Generative-Adversarial-Networks-GANs-Specialization/blob/main/1.%20Build%20Basic%20Generative%20Adversarial%20Networks%20(GANs)/2.%20WGAN.ipynb)
 
 #### Week 4: Conditional and Controllable GANs
 
 - Understand how to effectively control your GAN, modify the features in a generated image, and build conditional GANs capable of generating examples from determined categories.
 - Assignments:
-	- [Build a Conditional GAN]()
-	- [Controllable Generation]()
+	- [Build a Conditional GAN](https://github.com/dileepkanumuri/Generative-Adversarial-Networks-GANs-Specialization/blob/main/1.%20Build%20Basic%20Generative%20Adversarial%20Networks%20(GANs)/3.%20Conditional%20GAN.ipynb)
+	- [Controllable Generation](https://github.com/dileepkanumuri/Generative-Adversarial-Networks-GANs-Specialization/blob/main/1.%20Build%20Basic%20Generative%20Adversarial%20Networks%20(GANs)/4.%20Controllable%20Generation.ipynb)
 
 ---
 
