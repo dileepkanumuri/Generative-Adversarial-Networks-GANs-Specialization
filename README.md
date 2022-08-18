@@ -67,13 +67,13 @@ The GAN Specialization on Coursera contains three courses:
 
 - Understand the challenges of evaluating GANs, learn about the advantages and disadvantages of different GAN performance measures, and implement the Fréchet Inception Distance (FID) method using embeddings to assess the accuracy of GANs.
 - Assignment:
-	- [Evaluating GANs / Fréchet Inception Distance]()
+	- [Evaluating GANs / Fréchet Inception Distance](https://github.com/dileepkanumuri/Generative-Adversarial-Networks-GANs-Specialization/blob/main/2.%20Build%20Better%20Generative%20Adversarial%20Networks%20(GANs)/1.%20Fr%C3%A9chet%20Inception%20Distance.ipynb)
 
 #### Week 2: GAN Disadvantages and Bias
 
 - Find out the disadvantages of GANs when compared to other generative models, discover the pros/cons of these models — plus, learn about the many places where bias in machine learning can come from, why it’s important, and an approach to identify it in GANs.
 - Assignment:
-	- [Bias]()
+	- [Bias](https://github.com/dileepkanumuri/Generative-Adversarial-Networks-GANs-Specialization/blob/main/2.%20Build%20Better%20Generative%20Adversarial%20Networks%20(GANs)/2.%20Bias.ipynb)
 - Lab:
 	- [Variational Autoencoder (VAE)](https://nbviewer.jupyter.org/github/amanchadha/coursera-gan-specialization/blob/main/C2%20-%20Build%20Better%20Generative%20Adversarial%20Networks/Week%202/C2W2_VAE.ipynb)
 
@@ -81,10 +81,7 @@ The GAN Specialization on Coursera contains three courses:
 
 - Understand how StyleGAN improves upon previous models and implement the components and the techniques associated with StyleGAN, currently the most state-of-the-art GAN with powerful capabilities
 - Assignment:
-	- [Components of StyleGAN](https://nbviewer.jupyter.org/github/amanchadha/coursera-gan-specialization/blob/main/C2%20-%20Build%20Better%20Generative%20Adversarial%20Networks/Week%203/C2W3_Assignment.ipynb)
-- Optional Notebooks:
-	- [Components of BigGAN](https://nbviewer.jupyter.org/github/amanchadha/coursera-gan-specialization/blob/main/C2%20-%20Build%20Better%20Generative%20Adversarial%20Networks/Week%203/BigGAN.ipynb)
-	- [StyleGAN2](https://nbviewer.jupyter.org/github/amanchadha/coursera-gan-specialization/blob/main/C2%20-%20Build%20Better%20Generative%20Adversarial%20Networks/Week%203/StyleGAN2.ipynb)
+	- [Components of StyleGAN]([https://nbviewer.jupyter.org/github/amanchadha/coursera-gan-specialization/blob/main/C2%20-%20Build%20Better%20Generative%20Adversarial%20Networks/Week%203/C2W3_Assignment.ipynb](https://github.com/dileepkanumuri/Generative-Adversarial-Networks-GANs-Specialization/blob/main/2.%20Build%20Better%20Generative%20Adversarial%20Networks%20(GANs)/3.%20Components%20of%20StyleGAN.ipynb))
 	
 ---
 
