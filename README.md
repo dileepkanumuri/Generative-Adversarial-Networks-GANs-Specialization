@@ -32,12 +32,6 @@ The GAN Specialization on Coursera contains three courses:
 
 - Build a comprehensive knowledge base and gain hands-on experience in GANs. Train your own model using PyTorch, use it to create images, and evaluate a variety of advanced GANs.
 
-## About you
-
-- This Specialization is for software engineers, students, and researchers from any field, who are interested in machine learning and want to understand how GANs work.
-
-- This Specialization provides an accessible pathway for all levels of learners looking to break into the GANs space or apply GANs to their own projects, even without prior familiarity with advanced math and machine learning research.
-
 ## Programming Assignments
 
 ### Course 1: Build Basic Generative Adversarial Networks (GANs)
