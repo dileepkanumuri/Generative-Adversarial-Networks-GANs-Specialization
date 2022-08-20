@@ -1,4 +1,4 @@
-
+# Generative-Adversarial-Networks-GANs-Lab-Notes
 
 ![image](https://user-images.githubusercontent.com/45831222/185045761-4f266d35-0f79-4e2c-a0fc-e81c5244d71d.png)
 
