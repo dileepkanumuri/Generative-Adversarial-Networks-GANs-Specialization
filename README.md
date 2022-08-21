@@ -36,8 +36,6 @@ The GAN Specialization on Coursera contains three courses:
 
 ### Course 1: Build Basic Generative Adversarial Networks (GANs)
 
-- This is the first course of the Generative Adversarial Networks (GANs) Specialization.
-
 #### Week 1: Intro to GANs
 
 - Learn about GANs and their applications, understand the intuition behind the basic components of GANs, and build your very own GAN using PyTorch.
