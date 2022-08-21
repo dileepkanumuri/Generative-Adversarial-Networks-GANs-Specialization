@@ -78,7 +78,6 @@ The GAN Specialization on Coursera contains three courses:
 	- [Components of StyleGAN](https://github.com/dileepkanumuri/Generative-Adversarial-Networks-GANs-Specialization/blob/main/2.%20Build%20Better%20Generative%20Adversarial%20Networks%20(GANs)/3.%20Components%20of%20StyleGAN.ipynb)
 	
 ---
-
 ### Course 3: Apply Generative Adversarial Networks (GANs)
 
 #### Week 1: GANs for Data Augmentation and Privacy
