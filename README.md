@@ -88,7 +88,7 @@ The GAN Specialization on Coursera contains three courses:
 - Assignment:
 	- [Data Augmentation](https://github.com/dileepkanumuri/Generative-Adversarial-Networks-GANs-Specialization/blob/main/3.%20Apply%20Generative%20Adversarial%20Networks%20(GANs)/1.%20Data%20Augmentation)
 
-#### Week 2: Image-to-Image Translation
+#### Week 2: Image-to-Image Translation with Pix2Pix
 
 - Leverage the image-to-image translation framework and identify extensions, generalizations, and applications of this framework to modalities beyond images.
 - Implement Pix2Pix, a paired image-to-image translation GAN, to adapt satellite images to map routes (and vice versa) with advanced U-Net generator and PatchGAN discriminator architectures.
@@ -96,7 +96,7 @@ The GAN Specialization on Coursera contains three courses:
 	- [U-Net](https://github.com/dileepkanumuri/Generative-Adversarial-Networks-GANs-Specialization/blob/main/3.%20Apply%20Generative%20Adversarial%20Networks%20(GANs)/2.%20U-Net.ipynb)
 	- [Pix2Pix](https://github.com/dileepkanumuri/Generative-Adversarial-Networks-GANs-Specialization/blob/main/3.%20Apply%20Generative%20Adversarial%20Networks%20(GANs)/3.%20Pix2Pix.ipynb)
 
-#### Week 3: Image-to-Image Unpaired Translation
+#### Week 3: Unpaired Translation with CycleGAN
 
 - Compare paired image-to-image translation to unpaired image-to-image translation and identify how their key difference necessitates different GAN architectures.
 - Implement CycleGAN, an unpaired image-to-image translation model, to adapt horses to zebras (and vice versa) with two GANs in one.
