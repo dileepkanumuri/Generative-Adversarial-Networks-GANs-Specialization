@@ -92,14 +92,14 @@ The GAN Specialization on Coursera contains three courses:
 - Explore the applications of GANs and examine them w.r.t. data augmentation, privacy, and anonymity.
 - Improve your downstream AI models with GAN-generated data.
 - Assignment:
-	- [Data Augmentation](https://nbviewer.jupyter.org/github/amanchadha/coursera-gan-specialization/blob/main/C3%20-%20Apply%20Generative%20Adversarial%20Network%20(GAN)/Week%201/C3W1_Assignment.ipynb)
+	- [Data Augmentation](https://github.com/dileepkanumuri/Generative-Adversarial-Networks-GANs-Specialization/blob/main/3.%20Apply%20Generative%20Adversarial%20Networks%20(GANs)/1.%20Data%20Augmentation)
 
 #### Week 2: Image-to-Image Translation
 
 - Leverage the image-to-image translation framework and identify extensions, generalizations, and applications of this framework to modalities beyond images.
 - Implement Pix2Pix, a paired image-to-image translation GAN, to adapt satellite images to map routes (and vice versa) with advanced U-Net generator and PatchGAN discriminator architectures.
 - Assignments:
-	- [U-Net](https://nbviewer.jupyter.org/github/amanchadha/coursera-gan-specialization/blob/main/C3%20-%20Apply%20Generative%20Adversarial%20Network%20(GAN)/Week%202/C3W2A_Assignment.ipynb)
+	- [U-Net](https://github.com/dileepkanumuri/Generative-Adversarial-Networks-GANs-Specialization/blob/main/3.%20Apply%20Generative%20Adversarial%20Networks%20(GANs)/2.%20U-Net.ipynb)
 	- [Pix2Pix](https://nbviewer.jupyter.org/github/amanchadha/coursera-gan-specialization/blob/main/C3%20-%20Apply%20Generative%20Adversarial%20Network%20(GAN)/Week%202/C3W2B_Assignment.ipynb)
 
 #### Week 3: Image-to-Image Unpaired Translation
