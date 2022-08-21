@@ -81,8 +81,6 @@ The GAN Specialization on Coursera contains three courses:
 
 ### Course 3: Apply Generative Adversarial Networks (GANs)
 
-- This is the third course in the Generative Adversarial Networks (GANs) Specialization.
-
 #### Week 1: GANs for Data Augmentation and Privacy Preservation
 
 - Explore the applications of GANs and examine them w.r.t. data augmentation, privacy, and anonymity.
