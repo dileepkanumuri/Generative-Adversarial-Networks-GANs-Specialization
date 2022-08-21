@@ -48,7 +48,7 @@ The GAN Specialization on Coursera contains three courses:
 - Assignment:
 	- [Wasserstein GAN with Gradient Penalty (WGAN-GP)](https://github.com/dileepkanumuri/Generative-Adversarial-Networks-GANs-Specialization/blob/main/1.%20Build%20Basic%20Generative%20Adversarial%20Networks%20(GANs)/2.%20WGAN.ipynb)
 
-#### Week 4: Conditional and Controllable GANs
+#### Week 4: Conditional GAN & Controllable Generation
 
 - Understand how to effectively control your GAN, modify the features in a generated image, and build conditional GANs capable of generating examples from determined categories.
 - Assignments:
