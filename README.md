@@ -59,7 +59,7 @@ The GAN Specialization on Coursera contains three courses:
 
 ### Course 2: Build Better Generative Adversarial Networks (GANs)
 
-#### Week 1: GAN Evaluation
+#### Week 1: Evaluation of GANs
 
 - Understand the challenges of evaluating GANs, learn about the advantages and disadvantages of different GAN performance measures, and implement the Fréchet Inception Distance (FID) method using embeddings to assess the accuracy of GANs.
 - Assignment:
