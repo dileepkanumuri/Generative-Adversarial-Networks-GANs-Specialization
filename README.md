@@ -100,7 +100,7 @@ The GAN Specialization on Coursera contains three courses:
 - Implement Pix2Pix, a paired image-to-image translation GAN, to adapt satellite images to map routes (and vice versa) with advanced U-Net generator and PatchGAN discriminator architectures.
 - Assignments:
 	- [U-Net](https://github.com/dileepkanumuri/Generative-Adversarial-Networks-GANs-Specialization/blob/main/3.%20Apply%20Generative%20Adversarial%20Networks%20(GANs)/2.%20U-Net.ipynb)
-	- [Pix2Pix](https://nbviewer.jupyter.org/github/amanchadha/coursera-gan-specialization/blob/main/C3%20-%20Apply%20Generative%20Adversarial%20Network%20(GAN)/Week%202/C3W2B_Assignment.ipynb)
+	- [Pix2Pix](https://github.com/dileepkanumuri/Generative-Adversarial-Networks-GANs-Specialization/blob/main/3.%20Apply%20Generative%20Adversarial%20Networks%20(GANs)/3.%20Pix2Pix.ipynb)
 
 #### Week 3: Image-to-Image Unpaired Translation
 
