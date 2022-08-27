@@ -23,7 +23,6 @@ The GAN Specialization on Coursera contains three courses:
 - Generative Adversarial Networks (GANs) are powerful machine learning models capable of generating realistic image, video, and voice outputs. 
 
 - Rooted in game theory, GANs have wide-spread application: from improving cybersecurity by fighting against adversarial attacks and anonymizing data to preserve privacy to generating state-of-the-art images, colorizing black and white images, increasing image resolution, creating avatars, turning 2D images to 3D, and more.   
-
 - As computing power has increased, so has the popularity of GANs and its capabilities. GANs have opened up many new directions: from generating high amounts of datasets for training machine learning models and allowing for powerful unsupervised learning models to producing sharper, discrete, and more accurate outputs. GANs have also informed research in adjacent areas like adversarial learning, adversarial examples and attacks, model robustness, etc.
 
 ## About this Specialization
