@@ -43,6 +43,8 @@ The GAN Specialization on Coursera contains three courses:
 	
 #### Week 2:Deep Convolutional GANs
 
+- Understanding about the different activation functions, batch normalization, and transposed convolutions to tune your GAN architecture and apply them to build an advanced DCGAN specifically for processing images.
+
 #### Week 3: Wasserstein GANs with Normalization
 
 - Reduce instances of GANs failure due to imbalances between the generator and discriminator by learning advanced techniques such as WGANs to mitigate unstable training and mode collapse with a W-Loss and an understanding of Lipschitz Continuity.
