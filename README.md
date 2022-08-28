@@ -105,3 +105,4 @@ The GAN Specialization on Coursera contains three courses:
 - Assignment:
 	- [CycleGAN](https://nbviewer.jupyter.org/github/amanchadha/coursera-gan-specialization/blob/main/C3%20-%20Apply%20Generative%20Adversarial%20Network%20(GAN)/Week%203/C3W3_Assignment.ipynb)
 	
+[CERTIFICATE](https://www.coursera.org/account/accomplishments/specialization/certificate/G92VWKBBHN68)
