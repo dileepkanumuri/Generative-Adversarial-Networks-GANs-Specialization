@@ -63,8 +63,7 @@ The GAN Specialization on Coursera contains three courses:
 #### Week 1: Evaluation of GANs
 
 - Understand the challenges of evaluating GANs, learn about the advantages and disadvantages of different GAN performance measures, and implement the Fréchet Inception Distance (FID) method using embeddings to assess the accuracy of GANs.
-- Assignment:
-	- [Evaluating GANs / Fréchet Inception Distance](https://github.com/dileepkanumuri/Generative-Adversarial-Networks-GANs-Specialization/blob/main/2.%20Build%20Better%20Generative%20Adversarial%20Networks%20(GANs)/1.%20Fr%C3%A9chet%20Inception%20Distance.ipynb)
+- Assignment: [Evaluating GANs / Fréchet Inception Distance](https://github.com/dileepkanumuri/Generative-Adversarial-Networks-GANs-Specialization/blob/main/2.%20Build%20Better%20Generative%20Adversarial%20Networks%20(GANs)/1.%20Fr%C3%A9chet%20Inception%20Distance.ipynb)
 
 #### Week 2: GAN Disadvantages and Bias
 
