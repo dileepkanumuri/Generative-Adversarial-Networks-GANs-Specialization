@@ -38,8 +38,7 @@ The GAN Specialization on Coursera contains three courses:
 #### Week 1: Intro to GANs
 
 - Learn about GANs and their applications, understand the intuition behind the basic components of GANs, and build your very own GAN using PyTorch.
-- Assignment:
-	- [Your First GAN](https://github.com/dileepkanumuri/Generative-Adversarial-Networks-GANs-Specialization/blob/main/1.%20Build%20Basic%20Generative%20Adversarial%20Networks%20(GANs)/1.%20Your%20First%20GAN.ipynb)
+- Assignment:- [Your First GAN](https://github.com/dileepkanumuri/Generative-Adversarial-Networks-GANs-Specialization/blob/main/1.%20Build%20Basic%20Generative%20Adversarial%20Networks%20(GANs)/1.%20Your%20First%20GAN.ipynb)
 	
 #### Week 2:Deep Convolutional GANs
 
