@@ -47,8 +47,7 @@ The GAN Specialization on Coursera contains three courses:
 #### Week 3: Wasserstein GANs with Normalization
 
 - Reduce instances of GANs failure due to imbalances between the generator and discriminator by learning advanced techniques such as WGANs to mitigate unstable training and mode collapse with a W-Loss and an understanding of Lipschitz Continuity.
-- Assignment:
-	- [Wasserstein GAN with Gradient Penalty (WGAN-GP)](https://github.com/dileepkanumuri/Generative-Adversarial-Networks-GANs-Specialization/blob/main/1.%20Build%20Basic%20Generative%20Adversarial%20Networks%20(GANs)/2.%20WGAN.ipynb)
+- Assignment: [Wasserstein GAN with Gradient Penalty (WGAN-GP)](https://github.com/dileepkanumuri/Generative-Adversarial-Networks-GANs-Specialization/blob/main/1.%20Build%20Basic%20Generative%20Adversarial%20Networks%20(GANs)/2.%20WGAN.ipynb)
 
 #### Week 4: Conditional GAN & Controllable Generation
 
